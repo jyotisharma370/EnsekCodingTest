@@ -16,3 +16,4 @@ Status
  methods added to mock meter readings and test accounts as well for further enhancement of unit tests.
 
 
+![image](https://github.com/jyotisharma370/EnsekCodingTest/assets/30447666/30448495-e27f-4b9f-9207-a97e553ccbfe)
